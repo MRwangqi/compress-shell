@@ -17,7 +17,7 @@ eg：
 ### 比较
 
 原始文件：original.png ，大小 2.9M ，原始文件效果如下
-![original.png](image/original.png)
+![original.png](https://cdn.jsdelivr.net/gh/MRwangqi/compress-shell/image/original.png)
 
 压缩后文件：compress.png ，大小 900k，压缩后效果如下
-![compress.png](image/compress.png)
+![compress.png](https://cdn.jsdelivr.net/gh/MRwangqi/compress-shell/image/compress.png)
