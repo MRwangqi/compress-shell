@@ -14,4 +14,10 @@ eg：
 > ./compress.sh /Users/codelang/Desktop/drawable-xhdpi
 
 
+### 比较
 
+原始文件：original.png ，大小 4.6M ，原始文件效果如下
+![original.png](image/original.png)
+
+压缩后文件：compress.png ，大小 1.3M，压缩后效果如下
+![original.png](image/compress.png)
